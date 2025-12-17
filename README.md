@@ -1,4 +1,4 @@
-# GF-UNet
+# SPME-UNet
 
 ## 1. Download pre-trained model (TransNeXt-B)
 * [Get pre-trained model in this link] (https://github.com/DaiShiResearch/TransNeXt/tree/main): Put pretrained model into folder "pretrained_ckpt/"
