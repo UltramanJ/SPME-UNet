@@ -20,7 +20,7 @@ from scipy import ndimage
 
 logger = logging.getLogger(__name__)
 
-from .gf-unet import transnext_tiny, transnext_small, transnext_base,TransNeXtDecoder
+from .spme_unet import transnext_tiny, transnext_small, transnext_base,TransNeXtDecoder
 
 
 class SwinUnet(nn.Module):
